@@ -469,4 +469,4 @@ async def error_handling(context,error):
         await context.send("Pls write a city")
 
 bot.add_cog(Battleships(bot))
-bot.run("OTU4ODA3NTY5NjcyMDQ4NjQw.YkStIg.abQGtPz4WIjEG1gvXbrVDo8zAaA")
+bot.run("enter your token")
